@@ -1,5 +1,8 @@
 # Программа для твиков auTweaker от archkillua 
+С помощью данной программы вы можете активировать Windows, убрать ее обновления и многое другое!
 
+ТГК автора:
+<img width="384" height="416" alt="qr" src="https://github.com/user-attachments/assets/a92580ae-ec9b-419f-84ce-4732a8d7cff2" />
 
 > [!IMPORTANT]
 > Программа работает на windows 7/8/8.1/10/11
